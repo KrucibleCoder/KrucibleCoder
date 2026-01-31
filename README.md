@@ -4,7 +4,7 @@
 
 # Other platforms
 
-[![Itch](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge\&logo=Itch.io\&logoColor=white)](https://itch.io)
+[![Itch](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge\&logo=Itch.io\&logoColor=white)](https://krucible.itch.io)
 
 # 💻 Tech Stack:
 
